@@ -1,0 +1,11 @@
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\bin\Debug\NUnitTestZbozi.dll
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\bin\Debug\NUnitTestZbozi.pdb
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\bin\Debug\nunit.framework.dll
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\bin\Debug\WebDriver.dll
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\bin\Debug\nunit.framework.xml
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\bin\Debug\WebDriver.xml
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\obj\Debug\NUnitTestZbozi.csprojAssemblyReference.cache
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\obj\Debug\NUnitTestZbozi.csproj.CoreCompileInputs.cache
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\obj\Debug\NUnitTestZbozi.csproj.CopyComplete
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\obj\Debug\NUnitTestZbozi.dll
+C:\Test_directory\C#Test\NUnitTestZbozi\NUnitTestZbozi\obj\Debug\NUnitTestZbozi.pdb

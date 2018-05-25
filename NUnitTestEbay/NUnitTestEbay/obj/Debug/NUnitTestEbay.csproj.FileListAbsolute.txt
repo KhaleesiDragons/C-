@@ -1,0 +1,11 @@
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\bin\Debug\NUnitTestEbay.dll
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\bin\Debug\NUnitTestEbay.pdb
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\bin\Debug\nunit.framework.dll
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\bin\Debug\nunit.framework.xml
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\obj\Debug\NUnitTestEbay.csprojAssemblyReference.cache
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\obj\Debug\NUnitTestEbay.csproj.CoreCompileInputs.cache
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\obj\Debug\NUnitTestEbay.csproj.CopyComplete
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\obj\Debug\NUnitTestEbay.dll
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\obj\Debug\NUnitTestEbay.pdb
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\bin\Debug\WebDriver.dll
+C:\Test_directory\C#Test\NUnitTestEbay\NUnitTestEbay\bin\Debug\WebDriver.xml
